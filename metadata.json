@@ -1,0 +1,6 @@
+{
+  "name": "Pulse",
+  "description": "Real-time screen-time tracking and productivity dashboard with live simulation and interactive CPU scheduling laboratory (RR, FCFS, SJF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
